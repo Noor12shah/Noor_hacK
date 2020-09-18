@@ -1,25 +1,25 @@
-## EasY_HaCk
+## Noor_hacK
 1. Hack the World using Termux
-this tool is a developed by sabri.zaki for penetration testing using 
+this tool is a developed by Noor for penetration testing using 
 2. metasploit-framework 
 3. sqlmap 
 4. nmap 
 5. metagoofil 
 6. RED HAWK 
 7. recon-ng and much more powerful testing tools
-## EasY_HaCk is a tool for network scanning and information gathering 
+## Noor_hacK is a tool for network scanning and information gathering 
 ## and for exploiting android phones and Windows pcs 
 all that on Termux
 ## Installion
 1. `pkg update`
 2. `pkg upgrade`
 3. `pkg install git`
-4. `git clone https://github.com/sabri-zaki/EasY_HaCk`
-5. cd EasY_HaCk/
+4. `git clone https://github.com/Noor12shah/Noor_hacK`
+5. cd Noor_hacK/
 6. `chmod +x install.sh`
-7. Type `EasY-HaCk`
+7. Type 'Noor_hacK'
 
-![](.modules/EasY_HaCk.png)
+![](.modules/Noor_hacK.png)
 
 ## [ USAGE ]:
 {1}-Payload Generator
@@ -41,10 +41,6 @@ all that on Termux
 ## [UPDATE]
 To update the Tool choose option number `10`
 
-
-## [My YouTube Channel]
-
-🔘 https://youtube.com/c/sabrizaki
 
 
 
