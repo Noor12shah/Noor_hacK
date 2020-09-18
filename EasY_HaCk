@@ -23,22 +23,22 @@ o='\033[0m'
 #banner
 sleep 0.5
 echo -e $yellow
-figlet -f big "EasYHaCk"
+figlet -f big "Noor_hacK"
 
-echo -e "                   $g"Alpha"$r"Team"$w"DZ"" 
+echo -e "                   $g"Noor"$r"Shah"$w"DZ"" 
 echo -e "$a              # # # # # # # # # # # #"
 echo -e "$a              #$G                     $o$a#"
-echo -e "$a              #$G    $r"EasY_HaCk  V3.2"$a   $o$a#"
+echo -e "$a              #$G    $r"Noor_hacK  V3.2"$a   $o$a#"
 echo -e "$a              #$G                     $o$a#"
 echo -e "$a              # # # # # # # # # # # #"
 echo
 echo -e "  $G1$w Welcome to This Tool For Penetration Testing $o" 
-echo -e $o"$green               Made by$yellow SABRI ZAKI "$o
+echo -e $o"$green               Made by$yellow Noor "$o
 echo -e " $g          Developers Team :  Emad Fakhry "
 echo " "
 echo -e "              $red Press ENTER to Continue"
 echo -e $yellow
-echo -n -e "[EasY_HaCk]~#:"
+echo -n -e "[Noor_hacK]~#:"
 sleep 2
 read tmp
 echo -e " "
@@ -80,21 +80,21 @@ fi
 
 create_payload()
 {
-python2 $PREFIX/share/EasY_HaCk/.modules/.pay.py
-EasY_HaCk
+python2 $PREFIX/share/Noor_hacK/.modules/.pay.py
+Noor_hacK
 }
 
 about()
 {
-echo -e "$green                    EasY_HaCk $yellow
+echo -e "$green                    Noor_hacK $yellow
 
 This tool is to provide easy user interface 
 My aim behind this tool is to make penetration testing easy 
 like payload creation, metasploit installation, 
 ngrok installation, network scanning and Websites Hacking 
-& Wait for my updates of$r EasY_HaCk$yellow tool 
+& Wait for my updates of$r Noor_hacK$yellow tool 
 with some extra features and options and all 
-CREDITS GOES TO$g SABRi$yellow"@"$green"ZAKI"$yellow from $g"Alpha"$r"Team"$w"DZ"$r (o_O)$reset"
+CREDITS GOES TO$g Noori$yellow"@"$green"Shah"$yellow from $g"Alpha"$r"Team"$w"DZ"$r (o_O)$reset"
 echo
 echo -e "$red                    press ENTER"
 echo -n "[EasY_HaCk]~#:"
