@@ -67,7 +67,7 @@ sleep 0.1
 echo -e "$a      [$w"XX"$a"]"$g EXIT $reset"
 sleep 0.5
 echo -e $yellow
-echo -n $B "[EasY_HaCk]~#:"
+echo -n $B "[Noor_hacK]~#:"
 read option
 if [[ $option == "" ]];
 then
@@ -75,7 +75,7 @@ then
 	echo
 	echo -e "$green Plz wait... You are redirecting to main menu"
 	sleep 2
-EasY_HaCk
+Noor_hacK
 fi
 
 create_payload()
@@ -97,9 +97,9 @@ with some extra features and options and all
 CREDITS GOES TO$g Noori$yellow"@"$green"Shah"$yellow from $g"Alpha"$r"Team"$w"DZ"$r (o_O)$reset"
 echo
 echo -e "$red                    press ENTER"
-echo -n "[EasY_HaCk]~#:"
+echo -n "[Noor_hacK]~#:"
 read tmpp
-EasY_HaCk
+Noor_hacK
 }
 
 update()
